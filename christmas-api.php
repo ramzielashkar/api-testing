@@ -1,4 +1,5 @@
 <?php
+//api to calculate days left till Christmas
 // getting date entered by GET request
 $today = strtotime($_GET['date']);
 

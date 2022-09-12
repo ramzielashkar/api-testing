@@ -1,4 +1,5 @@
 <?php
+// api to check if a given input is palindrome or not
 $input = $_GET["input"];
 $result ="";
 
